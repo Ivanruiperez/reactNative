@@ -1,1 +1,3 @@
-# Renty-test-ivan
+# Cats fatcs by Ivan
+# React-native
+# Redux
